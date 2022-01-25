@@ -1,7 +1,7 @@
-### 👋 Hi, I’m @OscarGM40
+## 👋 Hi, I’m @OscarGM40
 ___
 ##### 👀 I’m interested in programming with Node,React,Angular,Python,Java,...
-##### 🌱 I’m currently learning Microservices,RxJs,Golang,AWS...
+##### 🌱 ***I’m currently learning Microservices,RxJs,Golang,AWS...***
 ___
 
 - 📫 How to reach me ... <- I have a phone,like everyone,you know...
